@@ -561,6 +561,3 @@ Thank you for taking the time to contribute! Your efforts help make AI education
 
 **Remember:** This project exists because of contributors like you. Let's build something amazing together! 🚀
 
----
-
-*This CONTRIBUTING.md was inspired by and adapted from many excellent open-source projects. Last updated: $(date)*
